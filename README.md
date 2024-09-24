@@ -3,7 +3,7 @@
 
 - 🔭 Currently, I develop for FiveM on servers such as: **Comuna 13 Network & DSCO Network**
 
-- 🌱 I am currently learning. **Angular, Tailwindcss, NodeJS, JavaScript**
+- 🌱 I am currently learning. **Angular, Tailwindcss, NodeJS, TypeScript, JavaScript**
 
 - 💬 Sure, I can chat with you if you need help with frameworks in FiveM, such as... **ESX Legacy, QBCore**
 
