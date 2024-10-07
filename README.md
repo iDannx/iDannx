@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.gg/idannull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="idannull" height="30" width="40" /></a>
+<a href="https://discord.gg/idannull" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
 <h2 align="center" class="heading-element" dir="auto">⚒️ Languages-Frameworks-Tools ⚒️</h2>
