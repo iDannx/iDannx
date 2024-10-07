@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hi 👋, I'm Carlos Carrillo.</h1>-->
 <h1 align="center" class="heading-element" dir="auto">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&amp;size=35&amp;center=true&amp;&color=f75c7e&vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi%2C+There!;I'm+iDannx" style="max-width: 100%" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&amp;size=35&amp;center=true&amp;&color=7144CFFF&vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi%2C+There!;I'm+iDannx" style="max-width: 100%" /></a>
 </h1>
 <h3 align="center">I am a young developer who is passionate about everything related to programming. I strive day by day to improve in what I already know and to learn what I need to learn. It's a long journey that I have, but I know I will be able to achieve it.</h3>
 
