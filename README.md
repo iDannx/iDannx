@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.gg/idannull" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://discord.gg/PJB5bm6Nu6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
 <h2 align="center" class="heading-element" dir="auto">⚒️ Languages-Frameworks-Tools ⚒️</h2>
